@@ -1,10 +1,9 @@
+hello@jeffreylarrimore.com — San Francisco — (215) 586-3276
+
 ---
 
-title: Jeffrey Larrimore — Art Director & Designer
-name: Jeffrey Larrimore
-number: (215) 586-3276
-email: hello@jeffreylarrimore.com
-location: San Francisco
+# Art Director & Designer
+# Jeffrey Larrimore
 
 ---
 
