@@ -2,8 +2,7 @@ hello@jeffreylarrimore.com — San Francisco — (215) 586-3276
 
 ---
 
-# Art Director & Designer
-# Jeffrey Larrimore
+# Art Director & Designer Jeffrey Larrimore
 
 ---
 
