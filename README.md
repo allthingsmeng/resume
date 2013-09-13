@@ -1,4 +1,3 @@
-![Jeffrey Larrimore Logo](http://jeffreylarrimore.com/resume/css/jeffreylarrimore-logo.svg) 
 Art Director & Designer <br> Jeffrey Larrimore
 ===
 hello@jeffreylarrimore.com — San Francisco — (215) 586-3276
