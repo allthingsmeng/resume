@@ -1,60 +1,76 @@
 ---
 layout: default
-meta: Resume of Jeffrey Larrimore — Art Director & Designer
+meta: Resume of Michelle Meng Nguyen — Visual Design, Illustration & Animation
 
-title: Jeffrey Larrimore — Art Director & Designer
-name: Jeffrey Larrimore
-number: (215) 586-3276
-email: hello@jeffreylarrimore.com
+title: Michelle Meng Nguyen — Visual Design, Illustration & Animation
+name: Michelle Meng Nguyen
+number: (415) 216-7451
+email: me@michellemeng.com 
 location: San Francisco
 ---
 
-## Public Service
-### Art Director & Visual Designer — Boulder/San Francisco, CA 2010-Current*
-Working with various clients and firms in Philadelphia, Los Angeles, and Boulder. Assisting with brand strategy and execution. Most projects consist of interactive design, identity, and basic illustration.
+##Work Experience    
 
-## Splick-it
-### Director of Design & Visual Designer — San Francisco, CA 2012-2013
-I have worked with Splick-it for a couple years as a client while with Dojo4 but have made the decision this year that I would be able to lend a better hand with the experience by coming onto their company full-time. We have managed to move buildings with a product team of three, with releasing a Web, iOS, and Android apps.
+Aug 2012—present	
+**Michelle Meng : Freelance / Independent**    
+Upon graduation, I have taken on clients to provide freelance design work that vary from identity, branding, animation, and signage.
 
-## Storenvy
-### Visual Designer — San Francisco, CA 2011-2011
-Direction of visuals & functionality within existing brand, while focusing strongly on user experience in newly released features.
+Oct 2011—present	
+**Swank Cocktail & Coffee Club**	
+Being a bartender I have learned to attain information quickly, deal with a variety of clientele, and work under pressure; all of which I apply to my design work.
+	
+Jun 2011—Aug 2011		
+**BLAP Productions**	
+Promoted BLAP Productions as the junior designer by designing flyers for events, editing and watermarking photos as well as handling their social media networks.
 
-## Dojo 4
-### Creative Director & Partner — Boulder, CO 2009-2010
-Started the Dojo4 with 3 partners that were focused in various aspects of software engineering (web, native iOS, and Android applications), and created this boutique agency that catered early stage start-ups to get their product to market, with a strong foundation in design and technology. My role was product & creative direction for the brand & user experience of the product as well as visual design for the identity and user interface of the products we created.
+Sept 2007—Oct 2011		
+**Falletti Foods**		
+Gave exceptional customer service as a cashier, stocker and created signs to highlight sales and menu items.
 
-## Mondo Robot
-### Visual Design (Contract) — Boulder, CO 2008
-Worked with projects ranging from identity, interactive, and print design. With a number of clients they hosted, I found myself mostly working with Microsoft’s Student brand.
 
-## I-SITE Inc.
-###Visual Designer & Art Director — Philadelphia, PA 2006-2008
-I was hired at I-SITE as a supporting designer where I learned a lot about web marketing and design. For two years at the company I ended up having my hand in more than just supporting design. I grew to the position of lead designer, where I was able to direct, strategize, and work closely with brands.
+Sept 2009—Feb 2010	
+**BAYCAT : Bayview Hunters Point Center for Arts and Technology**    
+Served as the graphic design intern by designing logos, flyers, posters, and opening credits for the mini-feature the nonprofit was filming.
 
-Developed a web presence for various clients through marketing and design. Which entailed creating a web experience around clients’ existing brands, search engine marketing/optimization, developing a information architecture and style guides.
 
----
+##Education
 
-## Camden County Technical School
-Commercial Graphics, Sicklerville, NJ
+Aug 2006—Aug 2012		
+**Bachelor of Science in Visual Communication Design**    
+San Francisco State University
 
----
 
-## Tools & Skills
-###Visual
-Adobe Suite (Photoshop, Illustrator, Indesign, Lightroom), Final Cut, FontLab Studio, Glyphs, and various font management systems.
+Sept 2010—Dec 2010	
+**Study Abroad Programme with emphasis on Graphic Design**    
+London Metropolitan University
 
-###Editors
-Textmate, Apple iWork, Google Docs
 
-###Languages
-HTML5, LESS, SASS, JS, Markdown &mdash; *Comfortable in command line and git*
+##Clients
 
-###Basic knowledge in
-Adobe After Effects, Interest in Cinema 4D, Ruby, Jekyllrb,
+Southpaw BBQ	
+Mong Thu Cafe	
+Swank Cocktail & Coffee Club	
+Mike Baker the Bike Maker
 
----
+##Skills
 
-###References Upon Request*
+* Adobe Creative Suite	
+* Photoshop	
+* Illustrator	
+* Indesign	
+* After Effects	
+* Flash	
+* Toon Boom Studio	
+* Word Processing		
+* Storyboarding	
+* Bilingual    
+    * English    
+    * Vietnamese
+
+##Interests
+
+* Comics		
+* Cartoons	
+* Bookmaking	
+* Printmaking		
+* Animated Gifs
