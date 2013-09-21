@@ -27,17 +27,10 @@ ul { margin: 0 0 0 20px; padding: 0; }
 article { margin: 1.125em 0; }
 
 /*Small screens - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
-@media only screen and (max-width: 480px), print { .web-view { display: none !important; }
-  .superline .logo { float: none; }
-  .superline h3 { float: none; }
-  .superline h3 a { text-decoration: underline; }
-  .superline h3 a:hover { text-decoration: none; }
-  .superline h3 span { display: block; }
-  h1 { font-size: 1.825em; /*40pt*/ line-height: 3rem; text-indent: 0; }
-  h1 .callout { font-size: 1.725em; line-height: 3rem; text-indent: 0; }
+@media only screen and (max-width: 480px), print { h1 { font-size: 1.825em; /*40pt*/ line-height: 1.5rem; text-indent: 0; }
+  h1 .callout { font-size: 1.725em; text-indent: 0; }
   h2 { font-size: 1.3em; /*14pt*/ }
   h3 { font-size: 1.125em; /*12pt*/ }
-  p { font-size: 0.725em; /*8pt*/ }
   .main { padding: 10px 0 40px 0; } }
 /*Print - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
 @media print { hr { background-color: none; border-top: solid 1px #aaaaaa; } }

@@ -121,41 +121,14 @@ article {
 /*Small screens - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
 
 @media only screen and (max-width: 480px), print {
-    
-    .web-view {
-        display:none !important;
-    }
-    
-    .superline{
-        .logo {
-            float:none;            
-        } 
-        
-        h3 {
-            float:none;
 
-            a {
-                text-decoration:underline;
-            }
-    
-            a:hover {
-                text-decoration:none;
-            }
-
-            span {
-                display:block;
-            }
-        }
-    } 
-    
     h1 { 
         font-size:1.825em; /*40pt*/
-		line-height:3rem;
+		line-height:1.5rem;
 		text-indent:0;
     
         .callout {
             font-size: 1.725em;
-            line-height:3rem;
 			text-indent:0;
         }  
     }
@@ -166,10 +139,6 @@ article {
     
     h3 { 
         font-size:1.125em; /*12pt*/
-    }
-     
-    p { 
-        font-size: 0.725em; /*8pt*/
     }
     
     .main {
