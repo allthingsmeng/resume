@@ -27,10 +27,12 @@ ul { margin: 0 0 0 20px; padding: 0; }
 article { margin: 1.125em 0; }
 
 /*Small screens - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
-@media only screen and (max-width: 480px), print { h1 { font-size: 1.825em; /*40pt*/ line-height: 1.5rem; text-indent: 0; }
+@media only screen and (max-width: 480px), print { 
+  h1 { font-size: 1.825em; /*40pt*/ line-height: 1.5rem; text-indent: 0; }
   h1 .callout { font-size: 1.725em; text-indent: 0; }
   h2 { font-size: 1.3em; /*14pt*/ }
   h3 { font-size: 1.125em; /*12pt*/ }
-  .main { padding: 10px 0 40px 0; } }
+  .main { padding: 10px 0 40px 0; } 
+  }
 /*Print - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
 @media print { hr { background-color: none; border-top: solid 1px #aaaaaa; } }
