@@ -28,8 +28,8 @@ article { margin: 1.125em 0; }
 
 /*Small screens - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
 @media only screen and (max-width: 480px), print { 
-  h1 { font-size: 1.825em; /*40pt*/ line-height: 1.5rem; text-indent: 0; }
-  h1 .callout { font-size: 1.725em; text-indent: 0; }
+  h1 { font-size: 1.825em; /*40pt*/ line-height: 1.5rem;}
+  h1 .callout { font-size: 1.725em; }
   h2 { font-size: 1.3em; /*14pt*/ }
   h3 { font-size: 1.125em; /*12pt*/ }
   .main { padding: 10px 0 40px 0; } 
