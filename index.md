@@ -19,10 +19,7 @@ Aug 2012 — present
 **Michelle Meng : Freelance / Independent**    
 Upon graduation, I have taken on clients to provide freelance design work that vary from identity / branding, animation, and signage.
 
-Oct 2011 — present	
-**Swank Cocktail & Coffee Club**	
-Being a bartender, I have learned to attain information quickly, deal with a variety of clientele, and work under pressure; all of which I apply to my design work.
-	
+
 Jun 2011 — Aug 2011		
 **BLAP Productions**	
 Promoted BLAP Productions as the junior designer by designing flyers for events, editing and watermarking photos as well as handling their social media networks.
