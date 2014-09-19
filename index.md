@@ -6,7 +6,6 @@ title: Visual Design, Illustration & Animation
 fullname: Michelle Meng Nguyen
 number: (415) 216-7451
 email: me@michellemeng.com
-link: michellemeng.com
 location: San Francisco
 ---
 
