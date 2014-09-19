@@ -7,7 +7,7 @@ fullname: Michelle Meng Nguyen
 number: (415) 216-7451
 email: me@michellemeng.com 
 location: San Francisco
-portfolio: michellemeng.com
+link: michellemeng.com
 ---
 
 ##Work Experience    
