@@ -5,9 +5,9 @@ meta: Resume of Michelle Meng Nguyen — Visual Design, Illustration & Animation
 title: Visual Design, Illustration & Animation
 fullname: Michelle Meng Nguyen
 number: (415) 216-7451
-email: me@michellemeng.com 
-location: San Francisco
+email: me@michellemeng.com
 link: michellemeng.com
+location: San Francisco
 ---
 
 ##Work Experience    
