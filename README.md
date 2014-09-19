@@ -13,8 +13,7 @@ Oct 2011 — present
 **Swank Cocktail & Coffee Club**	
 Being a bartender, I have learned to attain information quickly, deal with a variety of clientele, and work under pressure; all of which I apply to my design work.
 
-Mar 2014 — Jul 2014
-
+Mar 2014 — Jul 2014  
 **TEDP: Tenderloin Economic Development Project**
 As their Social Media / Marketing Communications Specialist & Graphic Designer, I redesigned their website, logo, took photographs, and maintained their social media networks and online presence. I also served as a community advocate with Mid-Market tech companies and Tenderloin business owners, and in turn successfully developed *Tasting the Tenderloin* - a series of lunches held at restaurants within the neighborhood. Attendees and sponsors came from One Kings Lane, PeerSpace, Spotify, Square, WeWork, and Zendesk.
 	
@@ -45,9 +44,9 @@ London Metropolitan University
 
 ##Clients
 
-Children's Advocacy Center
-Mike Baker the Bike Maker
-Mong Thu Cafe
+Children's Advocacy Center  
+Mike Baker the Bike Maker  
+Mong Thu Cafe  
 Southpaw BBQ
 Swank Cocktail & Coffee Club	
 
