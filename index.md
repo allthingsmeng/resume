@@ -51,11 +51,12 @@ London Metropolitan University
 
 ##Clients
 
-Children's Advocacy Center  
-Mike Baker the Bike Maker  
+Children's Advocacy Center
+Mike Baker the Bike Maker
 Mong Thu Cafe  
 Southpaw BBQ  
 Swank Cocktail & Coffee Club
+Taskrabbit
 
 ##Skills
 
@@ -77,5 +78,6 @@ Swank Cocktail & Coffee Club
 * Comics		
 * Cartoons
 * Bookmaking
+* Handlettering
 * Printmaking		
 * Animated Gifs
