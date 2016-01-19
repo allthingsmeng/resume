@@ -1,3 +1,6 @@
+---
+---
+
 /* -- @import "config"; -- */
 
 //------------------------- Colors
@@ -54,13 +57,13 @@ html, body {
 
 h1, h2, h3, h4, h5, h6 {
     font-weight:100;
-    margin:0 0 0.5em 0; 
+    margin:0 0 0.5em 0;
 }
 
-h1 { 
-    font-size:3.5em; /*40pt*/
+h1 {
+    font-size:3em; /*40pt*/
     line-height:1em;
-        
+
     .callout {
 		font-family: $sans;
 		font-style: normal;
@@ -69,35 +72,49 @@ h1 {
         line-height:.75em;
         margin-top:1rem;
     }
-} 
+}
 
-h2 { 
+h2 {
 	font-family: $sans;
     font-size:1.4em; /*14pt*/
     line-height:1.9em;
 	font-weight:700;
 	text-transform:uppercase;
-    } 
-    
-h3 { 
+    }
+
+h3 {
     font-size:1.25em; /*12pt*/
-    font-style: italic;
-    
+    // font-style: italic;
+    font-weight: 800;
     a {
         color:$gray-text;
         text-decoration:none;
     }
-    
+
     a:hover {
         text-decoration:underline;
     }
+  }
+
+h4 {
+   font-size:1.125rem;
+   font-style:italic;
+   font-weight: 400;
+   a {
+       color:$gray-text;
+       text-decoration:none;
+   }
+
+   a:hover {
+       text-decoration:underline;
+   }
 }
 
-p, ul { 
+p, ul {
     font-size: 1.1em; /*16pt*/
     line-height:1.325em;
 	font-weight:300;
-    margin:0.325em 0 1em 0;    
+    margin:0.325em 0 1em 0;
 }
 
 hr {
@@ -122,29 +139,29 @@ article {
 
 @media only screen and (max-width: 480px), print {
 
-    h1 { 
+    h1 {
         font-size:1.825em; /*40pt*/
 		line-height:1.5rem;
 		text-indent:0;
-    
+
         .callout {
             font-size: 1.725em;
 			text-indent:0;
-        }  
+        }
     }
-    
-    h2 { 
+
+    h2 {
         font-size:1.3em; /*14pt*/
-        } 
-    
-    h3 { 
+        }
+
+    h3 {
         font-size:1.125em; /*12pt*/
     }
-    
+
     .main {
         padding:10px 0 40px 0;
     }
-    
+
 }
 
 /*Print - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
@@ -153,5 +170,5 @@ article {
     hr {
         background-color:none;
         border-top:solid 1px $gray-bg;
-        }  
+        }
 }
