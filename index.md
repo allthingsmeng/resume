@@ -51,11 +51,11 @@ London Metropolitan University
 
 ##Clients
 
-Children's Advocacy Center
-Mike Baker the Bike Maker
+Children's Advocacy Center  
+Mike Baker the Bike Maker  
 Mong Thu Cafe  
 Southpaw BBQ  
-Swank Cocktail & Coffee Club
+Swank Cocktail & Coffee Club  
 Taskrabbit
 
 ##Skills
