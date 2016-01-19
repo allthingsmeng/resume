@@ -71,8 +71,8 @@ Taskrabbit
 * Storyboarding
 * Bilingual    
     * English    
-    * Vietnamese
-
+    * Vietnamese  
+    
 ##Interests
 
 * Comics		
